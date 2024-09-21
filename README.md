@@ -1,6 +1,6 @@
 # HashSlicer
 
-HashSlicer is a Python-based password-cracking tool designed for penetration testers and ethical hackers to weaponize data breaches efficiently. It generates password combinations based on a known segment of the password and then uses these combinations to attempt to crack SHA-1 hashed passwords. CrackForge integrates seamlessly with Hashcat, providing a powerful means to simulate real-world attacks against compromised or leaked hashes.
+HashSlicer is a Python-based password-cracking tool designed for penetration testers and ethical hackers to weaponize data breaches efficiently. It generates password combinations based on a known segment of the password and then uses these combinations to attempt to crack SHA-1 hashed passwords. HashSlicer integrates seamlessly with Hashcat, providing a powerful means to simulate real-world attacks against compromised or leaked hashes.
 
 ## Key Features
 - **Segmented Processing:** Efficiently divides password combinations into segments to handle large datasets.
