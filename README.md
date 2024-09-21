@@ -64,12 +64,7 @@ hashcat -m 100 -a 0 hash.txt password_combinations_segment_1.txt --outfile crack
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
-We welcome contributions! If you'd like to contribute, please:
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a pull request
+Contributions, suggestions, and feedback are always welcome! If you have any ideas for improvement or want to fix a bug, feel free to open an issue or create a pull request.
 
 ## Disclaimer
 HashSlicer is intended for ethical hacking and educational purposes only. Unauthorized usage against systems without permission is illegal and unethical. Always obtain explicit authorization before testing any system.
